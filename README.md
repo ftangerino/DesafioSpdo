@@ -33,7 +33,8 @@ d. Crie uma tabela de correlação entre o CNAE FISCAL PRINCIPAL e o CNAE FISCAL
 ### Resolução: <h5>
 
 https://drive.google.com/drive/folders/1DVnq9Gb2aLiJlzl7ZR3O683h4To--L31?usp=sharing
-https://share.vidyard.com/watch/fsRUMxDKZeebrHXwCkNQnb?
+
+https://share.vidyard.com/watch/fsRUMxDKZeebrHXwCkNQnb
 
 
 ### Tecnologias utilizadas: <h4>
