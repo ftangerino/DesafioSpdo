@@ -30,13 +30,6 @@ c. Determine a quantidade de empresas localizadas em um raio de 5 km do CEP 0142
 d. Crie uma tabela de correlação entre o CNAE FISCAL PRINCIPAL e o CNAE FISCAL SECUNDÁRIA
 
 
-### Resolução: <h5>
-
-https://drive.google.com/drive/folders/1DVnq9Gb2aLiJlzl7ZR3O683h4To--L31?usp=sharing
-
-https://share.vidyard.com/watch/fsRUMxDKZeebrHXwCkNQnb
-
-
 ### Tecnologias utilizadas: <h4>
 
     * Python
